@@ -1,0 +1,1 @@
+long long GCD (long long  x, long long  y) { return(!y) ? x : GCD(y, x % y);}

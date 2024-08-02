@@ -1,0 +1,12 @@
+Triangles
+/*
+sin(A)/a = sin(B)/b = sin(C)/c
+a^2 = b^2 + c^2 - 2b*c*cos(A)
+sin(A+B) = sin(A) * cos(B) + sin(B) * cos(A)
+sin(A-B) = sin(A) * cos(B) - sin(B) * cos(A)
+cos(A+B) = cos(A) * cos(B) - sin(A) * sin(B)
+cos(A-B) = cos(A) * cos(B) + sin(A) * sin(B)
+tan(A+B) = (tan(A) + tan(B))/(1 - tan(A) * tan(B))
+tan(A-B) = (tan(A) - tan(B))/(1 - tan(A) * tan(B))
+*/
+
