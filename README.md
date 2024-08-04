@@ -20,5 +20,5 @@ All the essentials for competitive programmers in one place. This repository con
 </p>
 
 ## Notes 
-- If you have any suggestions or improvements, please feel free to reach out! You can find various ways to connect with me in the 
-`Connect with me` section in [README](https://github.com/YousryEssam/YousryEssam)
+- If you have any suggestions or improvements, please feel free to reach out! You can find various ways to connect with me in the `Connect with me` section in [README](https://github.com/YousryEssam/YousryEssam)
+- Currently, everything is implemented using `C++`.
